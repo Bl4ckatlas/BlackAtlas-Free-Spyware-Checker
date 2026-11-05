@@ -10,7 +10,7 @@ Kostenloses Programm, das deinen Computer, dein Android-Handy oder dein iPhone (
 Lade die Datei **RabbitHoleAntiSpyScan-v0.1.15.zip** unter [Releases](../../releases) herunter. Danach `START-HERE.html` im entpackten Ordner öffnen. Dort steht der Start in 3 Schritten für Windows, Mac und Linux. Du brauchst nur Python 3.
 
 ## Was RabbitHoleAntiSpyScan macht
-RabbitHoleAntiSpyScan vergleicht Dateien, Programme, Browser- und Netzwerkspuren mit Listen bekannter Spionage-Funde. Die Listen stammen von Organisationen wie Amnesty International, Citizen Lab und Echap. Neu: rund 900 zusätzliche digitale Fingerabdrücke von Spionagesoftware gegen Journalisten, Aktivisten und Minderheiten. Außerdem erkennt RabbitHoleAntiSpyScan bekannte Spuren davon, dass ein Handy mit Techniken der Firma Cellebrite entsperrt wurde. Behörden nutzen sie oft, wenn sie Geräte beschlagnahmen, zum Beispiel bei Grenzkontrollen. Am Ende bekommst du einen Bericht: Was wurde geprüft, was wurde gefunden, was konnte nicht geprüft werden und was du als Nächstes tun solltest.
+RabbitHoleAntiSpyScan vergleicht Dateien, Programme, Browser- und Netzwerkspuren mit Listen bekannter Spionage-Funde. Die Listen stammen von Organisationen wie Amnesty International, Citizen Lab und Echap. Neu: rund 900 zusätzliche digitale Fingerabdrücke von Spionagesoftware gegen Journalisten, Aktivisten und Minderheiten. Außerdem erkennt RabbitHoleAntiSpyScan bekannte Spuren davon, dass ein Handy mit Techniken der Firma Cellebrite entsperrt wurde. Behörden nutzen sie oft, wenn sie Geräte beschlagnahmen, zum Beispiel bei Grenzkontrollen. Dazu kommen Live-Verbindungen, ein Passwortfeld für verschlüsselte iPhone-Backups und ein Übungsmodus zum Lernen. Am Ende bekommst du einen Bericht: Was wurde geprüft, was wurde gefunden, was konnte nicht geprüft werden und was du als Nächstes tun solltest.
 
 ## Datenschutz
 - Alles läuft nur auf deinem Gerät. Kein Konto, keine Auswertung.
@@ -47,7 +47,7 @@ Free program that checks your computer, Android phone or iPhone (via a backup) f
 Download **RabbitHoleAntiSpyScan-v0.1.15.zip** from [Releases](../../releases). Then open `START-HERE.html` in the unpacked folder for the 3-step start on Windows, Mac and Linux. You only need Python 3.
 
 ## What RabbitHoleAntiSpyScan does
-RabbitHoleAntiSpyScan compares files, apps, browser and network traces with lists of known spyware findings. These lists come from organizations such as Amnesty International, Citizen Lab and Echap. New: about 900 additional digital fingerprints of spyware used against journalists, activists and minorities. RabbitHoleAntiSpyScan also detects known traces that a phone was unlocked with techniques from the company Cellebrite, which authorities often use when seizing devices, for example at border crossings. In the end you get a report: what was checked, what was found, what could not be checked, and what to do next.
+RabbitHoleAntiSpyScan compares files, apps, browser and network traces with lists of known spyware findings. These lists come from organizations such as Amnesty International, Citizen Lab and Echap. New: about 900 additional digital fingerprints of spyware used against journalists, activists and minorities. RabbitHoleAntiSpyScan also detects known traces that a phone was unlocked with techniques from the company Cellebrite, which authorities often use when seizing devices, for example at border crossings. Plus live connections, a password field for encrypted iPhone backups and a practice mode. In the end you get a report: what was checked, what was found, what could not be checked, and what to do next.
 
 ## Privacy
 - Everything runs on your device only. No account, no tracking.
@@ -70,4 +70,4 @@ Check the address before sending. Bitcoin payments cannot be reversed.
 ## License and origin
 RabbitHoleAntiSpyScan is an interface around the open-source Zero Breach Toolkit v2.0.5 (Apache-2.0), included unmodified in the ZIP. It is not an official version of that project and is not affiliated with Amnesty International, Citizen Lab or Echap. Licenses and notices: `LICENSE`, `NOTICE-RABBITHOLEANTISPYSCAN.txt` and the license files in the ZIP's `toolkit` folder.
 
-Developed by RabbitHole.
+Developed by RabbitHoleRoad.
